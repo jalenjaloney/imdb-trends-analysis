@@ -1,7 +1,7 @@
 <h2>IMDb Data Analysis</h2>
 
 <strong>Description</strong>
-<br/> This project analyzes IMDb data for movies and TV series to identify trends in ratings, genre popularity, and release patterns over time. The analysis uses a dataset of movies and TV series available on IMDb, including information on ratings, genres, and release years.
+<br/> This project was developed as part of my Programming in Python class (CSCI 051) and analyzes IMDb data for movies and TV series to identify trends in ratings, genre popularity, and release patterns over time. The analysis uses a dataset of movies and TV series available on IMDb, including information on ratings, genres, and release years.
 
 <strong>Dependencies</strong>
 - matplotlib (for data visualization)
