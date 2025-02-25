@@ -1,4 +1,4 @@
-<h2>IMDb Data Analysis<h2/>
+<h2>IMDb Data Analysis</h2>
 
 <strong>Description</strong>
 <br/> This project analyzes IMDb data for movies and TV series to identify trends in ratings, genre popularity, and release patterns over time. The analysis uses a dataset of movies and TV series available on IMDb, including information on ratings, genres, and release years.
